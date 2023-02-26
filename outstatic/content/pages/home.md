@@ -2,17 +2,16 @@
 title: 'Home'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Maximilian Fuchs'
   picture: ''
 slug: 'home'
 description: 'This is my blog.'
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2023-02-26T05:35:07.322Z'
 ---
 
-## Hello!
+## Hello
 
-# I'm Max, nice to meet you.
+# I'm Max, nice to meet you
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
-
+I am a snowboarder + musician + software developer + interior designer + cook and whatever else I can cram into this existence.
